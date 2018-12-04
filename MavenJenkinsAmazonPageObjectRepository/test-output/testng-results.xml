@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16326" started-at="2018-10-30T00:25:54Z" finished-at="2018-10-30T00:26:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16326" started-at="2018-10-30T00:25:54Z" finished-at="2018-10-30T00:26:11Z">
+      <class name="com.amazon.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazon.qa.testcases.LoginPageTest@dc24521]" name="setUp" is-config="true" duration-ms="7458" started-at="2018-10-30T00:25:54Z" finished-at="2018-10-30T00:26:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.amazon.qa.testcases.LoginPageTest@dc24521]" name="loginPageTitleTest" duration-ms="158" started-at="2018-10-30T00:26:02Z" finished-at="2018-10-30T00:26:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="loginPageLogoTest()[pri:2, instance:com.amazon.qa.testcases.LoginPageTest@dc24521]" name="loginPageLogoTest" duration-ms="699" started-at="2018-10-30T00:26:02Z" finished-at="2018-10-30T00:26:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageLogoTest -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.amazon.qa.testcases.LoginPageTest@dc24521]" name="loginTest" duration-ms="7230" started-at="2018-10-30T00:26:03Z" finished-at="2018-10-30T00:26:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazon.qa.testcases.LoginPageTest@dc24521]" name="tearDown" is-config="true" duration-ms="749" started-at="2018-10-30T00:26:10Z" finished-at="2018-10-30T00:26:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
